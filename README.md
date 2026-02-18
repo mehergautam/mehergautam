@@ -1,4 +1,30 @@
-# 💫 Hi 👋, I'm Meher Gautam
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Meher%20Gautam&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=white" width="100%"/>
+  
+  <br>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6A5ACD&background=FF000000&center=true&vCenter=true&width=600&lines=Computer%20Science%20Engineer;DSA%20Enthusiast;Problem%20Solver;Future%20AI%20Engineer;Researcher%20and%20Developer" alt="Typing SVG" />
+  
+  <br>
+  
+  <img src="https://img.shields.io/github/followers/mehergautam?label=Follow&style=social" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/mehergautam?label=Stars&style=social" alt="GitHub stars" />
+  
+  <br>
+  
+  <img src="https://raw.githubusercontent.com/mehergautam/mehergautam/main/assets/ai-animation.gif" width="400px" alt="AI Animation">
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Data%20Structures%20and%20Algorithms-brightgreen" />
+  <img src="https://img.shields.io/badge/Skills-C%2B%2B%20%7C%20DSA%20%7C%20Problem%20Solving-blue" />
+  <img src="https://img.shields.io/badge/Exploring-System%20Design-orange" />
+</p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mehergautam&show_icons=true&theme=radical" />
+</div>
+
 **A passionate CSE Student || Aspiring Software Engineer ||**
 
 Email Me 👉 ✉️ **mehergautam.dev@gmail.com** For Collaboration/Project or Anything Else. 😊😊
